@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+.env.*
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+NexaDebug.log
+Security-admin.log
+
+# Build / binary files
+bin/

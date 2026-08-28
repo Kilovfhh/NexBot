@@ -1,0 +1,83 @@
+<p align="center">
+	<img src="LICENSE.gif" alt="Banner de NexBot" width="100%" />
+</p>
+
+Licencia de Software y Términos de Servicio de Nexa
+=====================================================================
+
+Versión 1.0
+Fecha de vigencia: 2026-08-27
+
+Copyright (c) 2026 Nexa (aka itzokay). Todos los derechos reservados.
+
+Estos términos regulan el acceso, uso, modificación y distribución de NexBot y sus materiales asociados.
+
+Al acceder, leer, modificar, instalar o utilizar este software, el usuario reconoce y acepta que el software está licenciado únicamente bajo los términos establecidos en este documento y no se vende, transfiere ni asigna a terceros.
+
+1. Propiedad
+
+1.1 El software y todo su código fuente, scripts, activos, documentación, archivos de configuración y materiales del proyecto son propiedad privada y exclusiva de Nexa (aka itzokay).
+
+2. Uso Autorizado
+
+2.1 El acceso, uso, modificación y contribución a este software solo está permitido para personas expresamente autorizadas por escrito por Nexa (aka itzokay).
+
+3. Restricciones
+
+A menos que Nexa (aka itzokay) lo autorice expresamente por escrito, ninguna persona puede:
+
+(a) copiar, reproducir, distribuir o redistribuir el software o cualquier parte de su código fuente;
+
+(b) publicar, subir o alojar el software o el código fuente en un sitio web, repositorio o plataforma pública;
+
+(c) proporcionar acceso al software o al código fuente a personas no autorizadas;
+
+(d) vender, sublicenciar, ceder o comercializar el software;
+
+(e) reclamar la propiedad, autoría o derechos sobre el software o cualquier trabajo derivado;
+
+(f) incorporar el software o cualquier parte del código fuente a otro proyecto para su distribución, despliegue o publicación sin permiso expreso de Nexa (aka itzokay);
+
+(g) eliminar, alterar u ocultar avisos de copyright o marcas de propiedad asociadas al software.
+
+4. Modificación y Contribución
+
+4.1 Las personas autorizadas pueden modificar el software solo dentro del alcance de los permisos concedidos por Nexa (aka itzokay).
+
+5. Terminación
+
+5.1 Nexa (aka itzokay) puede revocar en cualquier momento el permiso para acceder o utilizar el software y por cualquier motivo.
+
+5.2 Tras la revocación, el destinatario debe cesar inmediatamente todo uso del software y, si se solicita, eliminar permanentemente cualquier copia, extracto o material relacionado en su posesión o control.
+
+6. Exclusión de Garantía
+
+6.1 EL SOFTWARE SE PROPORCIONA "TAL CUAL" Y "SEGÚN DISPONIBILIDAD", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA.
+
+6.2 Nexa (aka itzokay) renuncia expresamente a todas las garantías, incluidas, entre otras, la comerciabilidad, la idoneidad para un propósito particular, la no infracción y la fiabilidad.
+
+7. Cumplimiento y Ejecución
+
+7.1 El uso, copia, intercambio, publicación o distribución no autorizados están prohibidos y pueden dar lugar a acciones legales.
+
+7.2 Este acuerdo se interpretará según las leyes aplicables sobre software propietario y derechos de propiedad intelectual en la jurisdicción correspondiente, sin limitar los derechos del titular de los derechos de autor.
+
+8. Contacto y Solicitudes de Permiso
+
+Las solicitudes de permiso deben enviarse a Nexa (aka itzokay) a través del canal de comunicación autorizado del proyecto.
+
+9. Términos de Seguridad y Uso
+
+9.1 Nexa (aka itzokay) puede utilizar su herramienta de seguridad personal, NexSecurity, para monitorear los sistemas y la infraestructura propiedad de NexBot con fines de seguridad, fiabilidad y prevención de abusos.
+
+9.2 Esta disposición no autoriza a NexSecurity ni a NexBot a monitorear el ordenador personal de un licenciatario, capturar pantallas, grabar actividad ni recopilar contenido personal sin el consentimiento separado, informado y revocable del usuario.
+
+9.3 Al ejecutar, acceder o utilizar este software o cualquier herramienta asociada, el usuario confirma que ha leído, comprendido y acepta quedar obligado por todos los términos de esta licencia y las políticas aplicables del proyecto.
+
+9.4 El usuario es el único responsable de sus acciones, del uso del software y del cumplimiento de la ley aplicable. En la máxima medida permitida por la ley aplicable, Nexa (aka itzokay), el desarrollador y los colaboradores no serán responsables de reclamaciones, daños, pérdidas o consecuencias legales derivadas de las acciones o del uso del software por parte del usuario.
+
+9.5 Nada en esta licencia excluye o limita una responsabilidad que no pueda excluirse o limitarse legalmente conforme a la ley aplicable.
+
+9.6 Cualquier usuario que infrinja esta licencia o las políticas aplicables del proyecto puede perder su acceso y ser excluido permanentemente del uso de NexBot y de la participación en proyectos actuales o futuros de Nexa. La aplicación de estas medidas queda a discreción de Nexa y está sujeta a la ley aplicable.
+
+9.7 El bot puede exigir al usuario crear un archivo llamado "ReadLicense.txt" como confirmación explícita. Al crear ese archivo, el usuario declara que ha revisado esta licencia y estos Términos de Servicio en su totalidad y acepta cumplir todos los términos y políticas aplicables. Esta confirmación está sujeta a la ley aplicable y no renuncia a ningún derecho que legalmente no pueda renunciarse.
